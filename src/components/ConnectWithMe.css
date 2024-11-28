@@ -1,0 +1,49 @@
+.connect-with-me {
+    text-align: center;
+    padding: 40px;
+    background-color: #f0f8ff; /* Light blue background */
+  }
+  
+  .connect-with-me h2 {
+    font-size: 2rem;
+    color: #0077b5; /* LinkedIn Blue */
+    margin-bottom: 10px;
+  }
+  
+  .connect-with-me p {
+    font-size: 1.2rem;
+    margin: 10px 0 30px;
+    color: #333;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  
+  .social-links a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.1rem;
+    color: #333;
+    transition: color 0.3s, transform 0.3s;
+  }
+  
+  .social-links a:hover {
+    color: #0077b5;
+    transform: scale(1.1);
+  }
+  
+  .social-links a img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .social-links a span {
+    font-weight: bold;
+  }
+  
